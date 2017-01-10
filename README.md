@@ -1,2 +1,2 @@
-# FinEureka-API-spec
-Swagger spec para la API de FinEureka
+# Swagger JSON
+This is a swagger JSON built by the [swagger-codegen](https://github.com/swagger-api/swagger-codegen) project.
