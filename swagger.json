@@ -497,7 +497,7 @@
   "definitions" : {
     "Productos" : {
       "type" : "object",
-      "required" : [ "claseActivo1", "descripcion", "divisa", "gestora", "kid_niveles", "kid_riesgo", "nombreProducto", "productId", "vehiculo" ],
+      "required" : [ "claseActivo1", "descripcion", "divisa", "kid_niveles", "kid_riesgo", "nombreProducto", "productId", "vehiculo" ],
       "properties" : {
         "productId" : {
           "type" : "string"
@@ -558,7 +558,7 @@
         },
         "opinion_estado" : {
           "type" : "integer",
-          "description" : "pet status in the store"
+          "description" : "opinión del usuario"
         },
         "descripcion" : {
           "type" : "string"
